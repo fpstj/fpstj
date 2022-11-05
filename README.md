@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Filip Stojanov
-- 👀 I’m interested in OOP, .NET, C#, back-end as well as some HTML & CSS ...
-- 🌱 I’m currently learning BA Computer Sciense.
+- 🌱 I’m currently learning Full Stack development.
 - 💞️ I’m looking to collaborate with anyone I can.
-- 📫 You can contact me via e-mail: stojanov.f@gmail.com or via linkedin: https://www.linkedin.com/in/filip-stojanov-924b10a6/
+- 📫 stojanov.f@gmail.com; https://www.linkedin.com/in/filip-stojanov-924b10a6/; https://github.com/fpstj
+- ⚡ HTML5, CSS3, Saas, Bootstrap, Git, nodejs, Figma, AdobeIllustrator, AdobePhotoshop,C#, OOP, .NET, Java.

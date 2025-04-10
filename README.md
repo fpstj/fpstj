@@ -2,4 +2,7 @@
 - 🌱 I’m currently learning Full Stack development.
 - 💞️ I’m looking to collaborate with anyone I can.
 - 📫 stojanov.f@gmail.com | https://www.linkedin.com/in/fpstj | https://github.com/fpstj | https://fpstj.vercel.app/
-- ⚡ React.js | JavaScript | TypeScript | HTML | CSS (SCSS, Bootstrap, Tailwind) | Single Page Applications (SPAs)  Component based development | UI state management and performance optimization | Responsive and mobile-first design | Git, GitHub | Azure DevOps | Services | GitHub actions | RESTful APIs implementation | Problem solving and analytical thinking | Collaboration, teamwork and communication | Attention to detail and workflow efficiency | Adaptability, continuous learning and proactive approach
+- ⚡ React.js | JavaScript | TypeScript | HTML | CSS (SCSS, Bootstrap, Tailwind)
+- ⚡ Single Page Applications (SPAs) | Component based development | UI state management and performance optimization | Responsive and mobile-first design
+- ⚡ Git, GitHub | Azure DevOps | Services | GitHub actions | RESTful APIs implementation
+- 🤝 Problem solving and analytical thinking | Collaboration, teamwork and communication | Attention to detail and workflow efficiency | Adaptability, continuous learning and proactive approach
